@@ -1,0 +1,13 @@
+1.7.12.0
+
+
+http://tortoisegit.googlecode.com/git-history/6f08086693e8fc4a05817df1fbfe4c7e622368f2/src/Changelog.txt
+
+1028;zh_TW
+1031;de
+1034;es_ES
+1036;fr
+1041;ja
+1046;pt_BR
+1049;ru
+2052;zh_CN
