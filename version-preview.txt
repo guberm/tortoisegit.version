@@ -1,4 +1,4 @@
-1.7.12.7;2012-09-07-4e99f35
+1.7.12.8;2012-09-08-cb73a5c
 
 
 http://tortoisegit.googlecode.com/git-history/a50a6121fdcb492a3ddd1af26cd84f5ca9202606/src/Changelog.txt
