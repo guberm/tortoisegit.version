@@ -3,7 +3,6 @@
 
 http://tortoisegit.googlecode.com/git-history/84c67b8aeec45635ab53e540a26c1b8c19fe5556/src/Changelog.txt
 
-1028;zh_TW
 1029;cs
 1031;de
 1034;es_ES
@@ -13,3 +12,4 @@ http://tortoisegit.googlecode.com/git-history/84c67b8aeec45635ab53e540a26c1b8c19
 1049;ru
 1055;tr
 2052;zh_CN
+1028;zh_TW
