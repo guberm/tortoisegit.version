@@ -1,5 +1,15 @@
-1.7.12.9;2012-09-22-44d3e72
+1.7.13.0
 
 
-http://tortoisegit.googlecode.com/git-history/5659d60ae01135a067c5807c94b9bf4405031817/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/84c67b8aeec45635ab53e540a26c1b8c19fe5556/src/Changelog.txt
 
+1028;zh_TW
+1029;cs
+1031;de
+1034;es_ES
+1036;fr
+1041;ja
+1046;pt_BR
+1049;ru
+1055;tr
+2052;zh_CN
