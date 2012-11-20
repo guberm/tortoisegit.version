@@ -1,5 +1,17 @@
-1.7.14.1
+1.7.15.0
 
 
-http://tortoisegit.googlecode.com/git-history/e5dd4e3cbf1fec08df0c25260b89ba3d000e36a5/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/11220a9bd407a48529bbb8f7f9114ec5ea110588/src/Changelog.txt
 
+1029;cs
+1031;de
+1034;es_ES
+1036;fr
+1041;ja
+1045;pl_PL
+1046;pt_BR
+1049;ru
+1053;sv
+1055;tr
+2052;zh_CN
+1028;zh_TW
