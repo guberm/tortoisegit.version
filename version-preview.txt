@@ -1,5 +1,5 @@
-1.7.15.6;2013-01-11-697eb6f
+1.7.15.7;2013-01-20-1320250
 
 
-http://tortoisegit.googlecode.com/git-history/697eb6f53dcc71f4a214a3a41aa327db42e6c61e/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/eb2430ed578f6527272e7435c3723f8d37fea287/src/Changelog.txt
 
