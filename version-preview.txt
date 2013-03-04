@@ -1,21 +1,5 @@
-1.8.1.0
+1.8.1.1;2013-02-27-a3b55f0
 
 
-http://tortoisegit.googlecode.com/git-history/1b3d8f3cc7460960da95deb79864a5ba1b7f52f4/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/a3b55f0a0f6ed8098bdcff5bc68b06ec00be9617/src/Changelog.txt
 
-1026;bg_BG
-1029;cs
-1031;de
-1034;es_ES
-1036;fr
-1041;ja
-1042;ko_KR
-1043;nl_NL
-1045;pl_PL
-1046;pt_BR
-1048;ro
-1049;ru
-1053;sv
-1055;tr
-2052;zh_CN
-1028;zh_TW
