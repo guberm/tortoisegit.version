@@ -1,5 +1,5 @@
-1.8.3.2;2013-05-31-ec99c1b
+1.8.3.3;2013-06-25-cb238fd
 
 
-http://tortoisegit.googlecode.com/git-history/ec99c1b1564080334cff4f58369a30903df92d22/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/cb238fd142f7f66cfd7ece691e059ea099f0fafc/src/Changelog.txt
 
