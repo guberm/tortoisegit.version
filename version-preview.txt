@@ -1,5 +1,25 @@
-1.8.3.3;2013-06-25-cb238fd
+1.8.4.0
 
 
-http://tortoisegit.googlecode.com/git-history/cb238fd142f7f66cfd7ece691e059ea099f0fafc/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/731b9d7abaa112bef7eb9aed97553f4d3429025f/src/Changelog.txt
 
+1026;bg_BG
+1029;cs
+1031;de
+1034;es_ES
+1036;fr
+1038;hu
+1040;it_IT
+1041;ja
+1042;ko_KR
+1043;nl_NL
+1045;pl_PL
+1046;pt_BR
+2070;pt_PT
+1048;ro
+1049;ru
+2074;sr-latin
+1053;sv
+1055;tr
+2052;zh_CN
+1028;zh_TW
