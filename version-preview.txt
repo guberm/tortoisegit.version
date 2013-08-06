@@ -1,5 +1,5 @@
-1.8.4.2;2013-07-29-88c39bc
+1.8.4.4;2013-08-06-a21342e
 
 
-http://tortoisegit.googlecode.com/git-history/88c39bc6794175fc4d4f0174b9127e09ae7a3741/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/a21342ee96b0c70f4d8d3852989ab9a8bd291404/src/Changelog.txt
 
