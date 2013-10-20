@@ -1,8 +1,8 @@
-1.8.5.0
+1.8.6.0
 
 
-http://tortoisegit.googlecode.com/git-history/cec49b45afa5a3c46754961a3d56a7d6813c57c5/src/Changelog.txt
-
+http://tortoisegit.googlecode.com/git-history/84badefb24047dac67eb97d3b4c17574223ca422/src/Changelog.txt
+http://download.tortoisegit.org/tgit/1.8.6.0/
 1026;bg_BG
 1027;ca
 1029;cs
@@ -10,6 +10,7 @@ http://tortoisegit.googlecode.com/git-history/cec49b45afa5a3c46754961a3d56a7d681
 1034;es_ES
 1036;fr
 1038;hu
+1057;id
 1040;it_IT
 1041;ja
 1042;ko_KR
