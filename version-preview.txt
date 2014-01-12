@@ -1,5 +1,28 @@
-1.8.6.9;preview-1.8.6.9-20140105-c8607fc
+1.8.7.0
 
 
-http://tortoisegit.googlecode.com/git-history/c8607fca79c4217c28c6a53984b106a80eeada85/src/Changelog.txt
-http://updater.download.tortoisegit.org/tgit/previews/
+http://tortoisegit.googlecode.com/git-history/b28386c786e7d9b28f48f35b20383ec8f63e1b42/src/Changelog.txt
+http://updater.download.tortoisegit.org/tgit/1.8.7.0/
+1026;bg_BG
+1027;ca
+1029;cs
+1031;de
+1034;es_ES
+1036;fr
+1038;hu
+1057;id
+1040;it_IT
+1041;ja
+1042;ko_KR
+1043;nl_NL
+1045;pl_PL
+1046;pt_BR
+2070;pt_PT
+1048;ro
+1049;ru
+2074;sr-latin
+1053;sv
+1055;tr
+1066;vi
+2052;zh_CN
+1028;zh_TW
