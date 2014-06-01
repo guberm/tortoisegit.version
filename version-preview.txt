@@ -1,5 +1,5 @@
-1.8.8.4;preview-1.8.8.4-20140518-af55871
+1.8.8.5;preview-1.8.8.5-20140601-81254f4
 
 
-http://tortoisegit.googlecode.com/git-history/af55871be31c263a6c78b9d146cf628dc25c8c2d/src/Changelog.txt
+http://tortoisegit.googlecode.com/git-history/81254f46cef6baac0f70096925e3840bbf6c0566/src/Changelog.txt
 http://updater.download.tortoisegit.org/tgit/previews/
