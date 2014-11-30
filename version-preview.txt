@@ -1,7 +1,7 @@
 1.8.12.0
 
 
-http://tortoisegit.googlecode.com/git-history/8d7e3fc4c576c60f62ad09f4ab2b7b146c0fe972/src/Changelog.txt
+http://versioncheck.tortoisegit.org/changelog.txt
 http://updater.download.tortoisegit.org/tgit/1.8.12.0/
 1026;bg_BG
 1027;ca
