@@ -1,8 +1,8 @@
-1.8.12.0
-
+1.8.13.0
+This version significantly improves security - an upgrade is highly recommended. See changelog.
 
 http://versioncheck.tortoisegit.org/changelog.txt
-http://updater.download.tortoisegit.org/tgit/1.8.12.0/
+http://updater.download.tortoisegit.org/tgit/1.8.13.0/
 1026;bg_BG
 1027;ca
 1029;cs
