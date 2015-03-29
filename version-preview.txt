@@ -1,29 +1,5 @@
-1.8.13.0
-This version significantly improves security - an upgrade is highly recommended. See changelog.
+1.8.13.1;preview-1.8.13.1-20150329-d90bc60
 
-http://versioncheck.tortoisegit.org/changelog.txt
-http://updater.download.tortoisegit.org/tgit/1.8.13.0/
-1026;bg_BG
-1027;ca
-1029;cs
-1031;de
-1034;es_ES
-1036;fr
-1038;hu
-1057;id
-1040;it_IT
-1041;ja
-1042;ko_KR
-1043;nl_NL
-1045;pl_PL
-1046;pt_BR
-2070;pt_PT
-1048;ro
-1049;ru
-1051;sk
-2074;sr-latin
-1053;sv
-1055;tr
-1066;vi
-2052;zh_CN
-1028;zh_TW
+
+http://versioncheck.tortoisegit.org/changelog-preview.txt
+http://updater.download.tortoisegit.org/tgit/previews/
